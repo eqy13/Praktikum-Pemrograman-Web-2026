@@ -1,10 +1,10 @@
 # Repositori Praktikum Pemrograman Web 2026
 ```text
 **Informasi Mahasiswa:**
-* **Nama:** Moch. Elqy Syaputra
-* **NIM:** 2406016
-* **Kelas/Prodi:** Teknik Informatika - ITG
-* **Kode MK:** IFRWP5151
+* **Nama         :** Moch. Elqy Syaputra
+* **NIM          :** 2406016
+* **Kelas/Prodi  :** Teknik Informatika - ITG
+* **Kode MK      :** IFRWP5151
 ```
 ---
 ## Catatan Modul 1
