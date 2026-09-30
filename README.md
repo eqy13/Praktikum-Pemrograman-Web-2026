@@ -1,6 +1,7 @@
 # Repositori Praktikum Pemrograman Web 2026
 ```text
-Informasi Mahasiswa:
+          Informasi Mahasiswa
+
 Nama               : Moch. Elqy Syaputra
 NIM                : 2406016
 Kelas/Prodi        : Teknik Informatika - ITG
