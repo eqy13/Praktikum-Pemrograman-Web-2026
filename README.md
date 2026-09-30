@@ -10,6 +10,8 @@
 - Uji coba Laragon MySQL berjalan pada Port 3306.
 - Konfigurasi identitas Git global.
 
+---
+
 ### Spesifikasi Perangkat
 - Sistem Operasi : Windows 11 Pro
 - Processor      : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
@@ -17,3 +19,5 @@
 - Versi Node.js  : v24.21.0
 - Versi GIT      : git version 2.56.0.windows.1
 - Versi Npm      : 11.19.0
+
+---
